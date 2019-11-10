@@ -1,0 +1,16 @@
+{
+  "modules": true,
+  "plugins": {
+    "autoprefixer": {
+        "Browserslist": [
+        "Firefox >= 52",
+        "Chrome >= 55",
+        "ie >= 8",
+        "last 4 versions",
+        "Safari >= 9"
+      ],
+      "flexbox": "no-2009",
+      "grid": true
+    }
+  }
+}
